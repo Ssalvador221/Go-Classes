@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Pequeno Principe",
+    "artist": "John Coltrane",
+    "price": 70
+  },
+  {
+    "id": "2",
+    "title": "Little Dark Age",
+    "artist": "MGMT",
+    "price": 20
+  },
+  {
+    "id": "3",
+    "title": "Joãozinho",
+    "artist": "Salvador",
+    "price": 100
+  },
+  {
+    "id": "4",
+    "title": "Pequeno Principe",
+    "artist": "Salvador",
+    "price": 70
+  }
+]
